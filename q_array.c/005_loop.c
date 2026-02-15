@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+    int x = 0;
+
+    while (x = 10)
+    {
+        printf("\nThe value of x is %d", x);
+        x++;
+    }
+
+    return 0;
+}
